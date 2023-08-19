@@ -16,8 +16,13 @@ Tableau is a visual analytics platform transforming the way we use data to solve
 <!-- Official Tableau video link -->
 
 
+<div align="center">
+
+
 [![image](https://github.com/Kmohamedalie/Tableau-Data-Visualization/assets/63104472/3e73c268-fb90-4082-815e-6921079e38cd)
 ](https://www.youtube.com/watch?v=YfE9jBq002s&list=PL_qx68DwhYA_55jz4HxlHJZC1p6kCZosn)
+
+</div>
 
 
 <!--Table of content -->
