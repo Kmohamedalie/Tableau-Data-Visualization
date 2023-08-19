@@ -247,6 +247,6 @@ A dashboard is a way of displaying various types of visual data in one place. Us
 <br>
 
 
-<div align="right">
-source: <a href="https://public.tableau.com/shared/X4P8YFMTD?:display_count=n&:origin=viz_share_link">Tableau Public</a>
+<div align="left">
+source: <a href="https://public.tableau.com/views/DrinkoReport-DynamicDashboard/DrinkoReport-DynamicDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link">Tableau Public</a>
 </div>
