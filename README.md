@@ -196,3 +196,18 @@ The first Y-axis metric displays as a bar, and the second displays as a line. Th
 source: <a href="https://public.tableau.com/views/ComboChartBarandLine/Foglio1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link">Tableau Public</a>
 </div>
 
+
+<!-- Dashboarding-->
+##  <p id="dashboard">Dash Boarding in Tableau</p>
+
+A dashboard is a way of displaying various types of visual data in one place. Usually, a dashboard is intended to convey different, but related information in an easy-to-digest form. And oftentimes, this includes things like key performance indicators (KPI)s or other important business metrics that stakeholders need to see and understand at a glance.<a href="https://www.tableau.com/learn/articles/dashboards/what-is">Tableau</a>
+
+
+
+<div class='tableauPlaceholder' id='viz1692462739273' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X4&#47;X4P8YFMTD&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;X4P8YFMTD' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X4&#47;X4P8YFMTD&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /></object></div>                
+<br>
+
+
+<div align="right">
+source: <a href="https://public.tableau.com/shared/X4P8YFMTD?:display_count=n&:origin=viz_share_link">Tableau Public</a>
+</div>
