@@ -9,7 +9,7 @@ Tableau is a visual analytics platform transforming the way we use data to solve
 <!-- Link to my Tableau Link-->
 **My Tableau page:** [Mohamed Alie Kamara](https://public.tableau.com/app/profile/mohamed.alie.kamara6326)
 
-
+**Lectures available:** [The Complete Data Visualization Course with Python, R, Tableau, and Excel with Elitsa Kaloyanova](https://365datascience.com/login/?redirectUrl=https%3A%2F%2Flearn.365datascience.com%2Fcourses%2Fpreview%2Fdata-visualization%2F)
 
 **Official video about Tableau**
 
