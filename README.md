@@ -6,7 +6,7 @@
 Tableau is a visual analytics platform transforming the way we use data to solve problems—empowering people and organizations to make the most of their data.
                                                          <a href="https://www.tableau.com/why-tableau/what-is-tableau"><b>Tableau</b></a>
 
-<!-- Link to my Tableau Link-->
+<!-- Link to my Tableau Link--> 
 **My Tableau page:** [Mohamed Alie Kamara](https://public.tableau.com/app/profile/mohamed.alie.kamara6326)
 
 **Final Case study Dashboard:** [Drinko Report](https://kmohamedalie.github.io/Tableau-Data-Visualization/)
